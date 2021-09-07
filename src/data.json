@@ -1,0 +1,230 @@
+  [
+    {
+      "id": "1",
+      "Phone_name": "Samsung Galaxy S20",
+      "Capacity": [
+        "128GB",
+        "256GB"
+      ],
+      "Image": [
+        "images/samsung-galaxy-s20-3 black.jpeg",
+        "images/samsung-galaxy-s20-pink.jpeg",
+        "images/samsung-galaxy-s20.jpeg"
+      ],
+      "Prices": [
+        "50999",
+        "52999",
+        "51999"
+      ],
+      "Details": "Meet Galaxy S20. With revolutionary 8K Video Snap changing how you capture videos and photos.1 Add in Samsung Knox security, an intelligent battery, powerful processor, and massive storage — and the Galaxy S20 series unveils a whole new world for  Quad rear camera - 108MP (PD) OIS F1.8 wide + 48MP OIS F2.0 tele camera + 12MP F2.2 ultra wide + VGA depth camera | 40MP (PD) OIS f2.2 front punch hole camera | Rear LED  17.44 centimeters (6.9-inch) dynamic AMOLED display with capacitive touchscreen,3200 x 1440 pixels resolution | Quad HD Memory, Storage & SIM: 12GB RAM | 128GB,   internal memory expandable up to 1TB | Dual SIM (nano+nano) dual-standby (4G+4G), microSD card slot (expandable upto 1 TB), hybrid  Android v10.0 operating system with 2.73GHz+2.5GHz+2GHz Exynos 990 octa  5000mAH (non-removable) lithium-ion battery | Face-unlock & finger  1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date  Box also includes: Non-removable battery included, earphones, travel adapter, USB cable and user manual",
+      "Colour": [
+        "Black",
+        "Pink",
+        "Navy"
+      ]
+    },
+    {
+      "id": "2",
+      "Phone_name": "Iphone 12 Pro Max",
+      "Capacity": [
+        "256GB",
+        "128GB"
+      ],
+      "Image": [
+        "images/apple-iphone-12-pro-max-silver.jpeg",
+        "images/apple-iphone-12-pro-max-pacificblue.jpeg",
+        "images/apple-iphone-12-pro-max-gold.jpeg",
+        "images/apple-iphone-12-pro-max-graphite.jpeg"
+      ],
+      "Prices": [
+        "119650",
+        "123650",
+        "125650",
+        "124650"
+      ],
+      "Details": "Meet the new iPhone 12 Pro Max. 5G speed.¹,³ A14 Bionic, the fastest chip in a smartphone. And a Pro camera system that takes low-light photography to the next  6.7-inch (17 cm diagonal) Super Retina  Ceramic Shield, tougher than any smartphone glass 128GB, 256GB storage  A14 Bionic chip, the fastest chip ever in a smartphone Pro camera system with 12MP Ultra Wide, Wide and Telephoto cameras; 5x optical zoom range; Night mode, Deep Fusion, Smart HDR 3, Apple ProRAW, 4K Dolby Vision HDR recording LiDAR Scanner for improved AR experiences, Night mode portraits 12MP TrueDepth front camera with Night mode,4K Dolby Vision HDR recording Industry-leading IP68 water resistance",
+      "Colour": [
+        "Silver",
+        "Blue",
+        "Gold",
+        "Graphite"
+      ]
+    },
+    {
+      "id": "3",
+      "Phone_name": "BlackBerry Classic",
+      "Capacity": [
+        "16GB",
+        "32GB"
+      ],
+      "Image": [
+        "images/blackberry clasisc black.jpeg",
+        "images/blackberry white.jpeg"
+      ],
+      "Prices": [
+        "13899",
+        "13599"
+      ],
+      "Details": "Blackberry Classic is a Smartphone with 3.5-inch display,  powered by 1.5GHz dual-core Qualcomm Snapdragon S4 processor,  BlackBerry 10.3.1 OS and has a physical QWERTY Keypad. 16GB,32GB storage expandable up to 512GB",
+      "Colour": [
+        "Black",
+        "White"
+      ]
+    },
+    {
+      "id": "4",
+      "Phone_name": "Google Pixel 5",
+      "Capacity": [
+        "128GB",
+        "64GB"
+      ],
+      "Image": [
+        "images/googlepixel black.jpeg",
+        "images/googlepixel green.jpeg"
+      ],
+      "Prices": [
+        "64420",
+        "64280"
+      ],
+      "Details": "Google Pixel 5a 5G mobile was launched on 17th August 2021.  The phone comes with a 6.34-inch touchscreen display with a resolution of 1080x2400 pixels and an aspect ratio of 20:9.  Google Pixel 5a 5G is powered by an octa-core Qualcomm Snapdragon 765G processor.  It comes with 6GB of RAM.  128GB, 64GB storage expandable up to 512GB The Google Pixel 5a 5G runs Android 11 and is powered by a 4680mAh battery.  The Google Pixel 5a 5G supports proprietary fast charging. As far as the cameras are concerned, the Google Pixel 5a 5G on the rear packs a 12.2-megapixel primary camera with an f/1.7 aperture, and a 16-megapixel camera with an f/2.2 aperture.  The rear camera setup has autofocus. It sports an 8-megapixel camera on the front for selfies with an f/2.0 aperture. Google Pixel 5a 5G is based on Android 11 and packs 128GB of inbuilt storage. The Google Pixel 5a 5G measures 154.90 x 73.70 x 7.60mm (height x width x thickness) and weighs 183.00 grams.  It was launched in Mostly Black colour. Connectivity options on the Google Pixel 5a 5G include Wi-Fi, GPS, Bluetooth v5.00, NFC, and USB Type-C.  Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, proximity sensor, and fingerprint sensor.",
+      "Colour": [
+        "Black",
+        "Green"
+      ]
+    },
+    {
+      "id": "5",
+      "Phone_name": "Mi 10i",
+      "Capacity": [
+        "64GB",
+        "128GB"
+      ],
+      "Image": [
+        "images/mi black.jpeg",
+        "images/mi blue.jpeg"
+      ],
+      "Prices": [
+        "21999",
+        "23999"
+      ],
+      "Details": "Camera: 108 MP Quad Rear camera with Ultra-wide and Macro mode Processor: Octa-core Snapdragon 750G with 8nm process and support for next generation 5G Network Display: 16.9 centimeters (6.67-inch) FHD+ Full screen dot display with AdaptiveSync 120Hz refresh rate Battery: 4820 mAh large battery with 33W fast charger in-box and Type-C connectivity Memory, Storage & SIM: 6GB RAM | 64GB,128GB storage expandable up to 512GB with microSD card slot Warranty: 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+      "Colour": [
+        "Black",
+        "Blue"
+      ]
+    },
+    {
+      "id": "6",
+      "Phone_name": "Oppo A31",
+      "Capacity": [
+        "64GB",
+        "128GB"
+      ],
+      "Image": [
+        "images/oppowhite.jpeg",
+        "images/oppoblack.jpeg"
+      ],
+      "Prices": [
+        "12490",
+        "13490"
+      ],
+      "Details": "12+2+2MP triple rear camera (12MP main camera+2MP macro lens+2MP depth camera) with Portrait bokeh, macro lens, dazzle color mode, AI beautification | 8MP front camera 16.5 centimeters (6.5-inch) waterdrop multi touch screen with an 89% screen to body ratio | 1600 x 720 pixels resolution, 269 ppi pixel density Memory, Storage & SIM: 6GB RAM | 64GB, 128GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 based on ColorOS 6.1 operating system with 2.3GHz Mediatek 6765 octa core processor, IMG GE8320 4230mAH lithium-polymer battery providing talk-time of 45 hours and standby time of 450 hours 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase  Box also includes: USB cable, Sim tray ejecter, pre-applied screen protector and protective case, booklet with warranty card and quick guide. The box does not include earphones",
+      "Colour": [
+        "White",
+        "Black"
+      ]
+    },
+    {
+      "id": "7",
+      "Phone_name": "Vivo V7",
+      "Capacity": [
+        "32GB",
+        "64GB"
+      ],
+      "Image": [
+        "images/vivoblack.jpeg",
+        "images/vivogold.jpeg",
+        "images/vivorosegold.jpeg"
+      ],
+      "Prices": [
+        "22199",
+        "21199",
+        "23199"
+      ],
+      "Details": "Camera: 16 MP Rear camera with Ultra HD, HDR, Face beauty, Panorama, Professional, Videos, Time-lapse photography, Slow, Camera filter, Palm, Portrait mod | 24 MP front camera Display: 14.49 centimeters (5.7-inch) HD IPS capacitive touchscreen display with 1440x720 pixels and 283 ppi pixel density Memory, Storage & SIM: 4GB RAM | 32GB, 64GB storage expandable up to 256GB | Dual nano SIM with dual standby (4G+4G) Operating System and Processor: Android v7.1 Nougat operating system with 1.8GHz Snapdragon 450 MSM8953 octa core processor Battery: 3000 mAH lithium ion battery Warranty: 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Included in box: Earphone, Micro USB to USB Cable, USB Power adaptor, Silicon back cover and Screen guard",
+      "Colour": [
+        "Black",
+        "Gold",
+        "Red"
+      ]
+    },
+    {
+      "id": "8",
+      "Phone_name": "OnePlus Nord CE 5G",
+      "Capacity": [
+        "128GB",
+        "64GB"
+      ],
+      "Image": [
+        "images/onepluscharcoalink.jpeg",
+        "images/oneplusbluevoid.jpeg",
+        "images/oneplussilverray.jpeg"
+      ],
+      "Prices": [
+        "22999",
+        "24999",
+        "27999"
+      ],
+      "Details": "64MP+8MP+2MP triple rear camera with 1080p video at 30/60 fps, 4k 30 fps | 16MP front camera with 1080p video at 30/60 fps. 6.43-inch, 90Hz fluid AMOLED display with 2400 x 1080 pixels resolution | 410ppi Memory, Storage & SIM: 6GB RAM | 128GB, 64GB internal memory on UFS 2.1 storage system. Dual SIM (nano + nano) | OnePlus Nord CE currently supports dual 4G SIM Cards or a single 5G SIM + 4G SIM. Chipset: Qualcomm Snapdragon 750G 5G mobile platform with an octa-core processor, Kryo 570 CPU (20% improvement from predecessor), and an Adreno 619 GPU (10% improved graphics performance from predecessor). OnePlus Nord CE 5G, Warp Charge 30T power adapter, Warp Type-C cable (Supports USB 2.0), Phone case, Screen protector (pre-applied), SIM tray ejector, Welcome letter, Brand sticker, Red Cable Club Membership card, Quick start guide, Safety information and warranty card, Highest SAR value & Plastic recycling card Alexa Hands-Free capable: Download the Alexa app to use Alexa hands-free. Play music, make calls, hear news, open apps, navigate, and more, all using just your voice, while on-the-go.",
+      "Colour": [
+        "Charcoal",
+        "Blue",
+        "Silver"
+      ]
+    },
+    {
+      "id": "9",
+      "Phone_name": "Panasonic Eluga i7",
+      "Capacity": [
+        "16GB",
+        "32GB"
+      ],
+      "Image": [
+        "images/panasonicblack.jpeg",
+        "images/panasonicblue.jpeg",
+        "images/panasonicgold.jpeg"
+      ],
+      "Prices": [
+        "5498",
+        "5298",
+        "5398"
+      ],
+      "Details": "13MP primary camera and 8MP front facing camera 15.75 centimeters (6.2-inch) capacitive touchscreen with 1440 x 720 pixels resolution Memory, Storage & SIM: 3GB RAM | 16GB, 32GB storage expandable up to 128GB| Dual SIM with dual standby (4G+4G) Android v9.0 Pie operating system with 2GHz Mediatek octa core processor 4000mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Charger, Cable, Protective Screen Guard, Protective Case, SIM tooling pin, earphone, Quick Start Guide, Warranty card",
+      "Colour": [
+        "Black",
+        "Blue",
+        "Gold"
+      ]
+    },
+    {
+      "id": "10",
+      "Phone_name": "RealMe Narza 30 Pro",
+      "Capacity": [
+        "64GB",
+        "128GB"
+      ],
+      "Image": [
+        "images/realmeblue.jpeg",
+        "images/realmesilver.jpeg"
+      ],
+      "Prices": [
+        "18049",
+        "17999"
+      ],
+      "Details": "4 GB RAM | 64GB,128GB ROM | Expandable Upto 256 GB 16.51 cm (6.5 inch) Full HD+ Display 48MP + 2MP + 2MP | 16MP Front Camera 5000 mAh Battery MediaTek Helio G95 Processor",
+      "Colour": [
+        "Blue",
+        "Silver"
+      ]
+    }
+  ]

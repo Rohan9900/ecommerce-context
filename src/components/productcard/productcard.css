@@ -1,0 +1,42 @@
+.product-card {
+    border: 1px solid rgba(0, 0, 0, 0.233);
+    border-radius: 2px;
+    width: 250px;
+    margin: 20px 30px;
+
+    padding: 30px;
+}
+
+.product-img img {
+    width: 250px;
+    height: 300px;
+}
+
+.product-title {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 1200px) {
+    .product-card {
+        width: 50%;
+        margin: 10px ;
+    }
+    .product-img img {
+        width: 100%;
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .product-img img {
+        width: 100%;
+        height: 200px;
+    }
+
+    .product-card {
+        width: 70%;
+        margin: 20px ;
+    }
+}
+

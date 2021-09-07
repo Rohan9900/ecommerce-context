@@ -1,0 +1,21 @@
+.list-product{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .list-product{grid-template-columns: auto auto auto ;}
+}
+
+@media only screen and (max-width: 600px) {
+    .list-product{grid-template-columns: auto ;
+        margin-top: 100px;
+    
+    }
+}
+

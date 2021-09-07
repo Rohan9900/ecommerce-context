@@ -1,0 +1,21 @@
+.navbar{
+    width: 100%;
+    background-color: rgb(83, 206, 255);
+    position: fixed;
+    top: 0px;
+}
+.navbar ul{
+    margin: 0px;
+    padding: 20px 0px;
+    text-align: center;
+}
+.navbar ul li{
+    display: inline;
+    list-style: none;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+.navbar ul a{
+    text-decoration: none;
+}
